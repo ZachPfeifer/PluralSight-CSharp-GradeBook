@@ -1,0 +1,13 @@
+D:\Code\source\Code\C#\PluralSight\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.exe
+D:\Code\source\Code\C#\PluralSight\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.deps.json
+D:\Code\source\Code\C#\PluralSight\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.runtimeconfig.json
+D:\Code\source\Code\C#\PluralSight\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.runtimeconfig.dev.json
+D:\Code\source\Code\C#\PluralSight\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.dll
+D:\Code\source\Code\C#\PluralSight\gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.pdb
+D:\Code\source\Code\C#\PluralSight\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.csprojAssemblyReference.cache
+D:\Code\source\Code\C#\PluralSight\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.csproj.CoreCompileInputs.cache
+D:\Code\source\Code\C#\PluralSight\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.AssemblyInfoInputs.cache
+D:\Code\source\Code\C#\PluralSight\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.AssemblyInfo.cs
+D:\Code\source\Code\C#\PluralSight\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.dll
+D:\Code\source\Code\C#\PluralSight\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.pdb
+D:\Code\source\Code\C#\PluralSight\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.genruntimeconfig.cache
