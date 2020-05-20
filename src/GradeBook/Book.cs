@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 
 namespace GradeBook
@@ -15,8 +16,27 @@ namespace GradeBook
         {
             grades.Add(grade);
         }
-//NOTE Field is an Instance field of Book (Cannot use inplicit must be explicit)
-       private List<double> grades;  
+
+        public void ShowStatistics()
+        {
+            var result= 0.0;
+            var highGrade = double.MinValue;
+            var lowGrade= double.MaxValue;
+            foreach(var number in grades)
+            {
+                lowGrade = Math.Min(number, lowGrade);
+                highGrade= Math.Max(number, highGrade);
+               result += number;
+            }
+            result /=grades.Count;
+            //NOTE N2 is similar to .toFixed(2)
+            Console.WriteLine($"The lowest grade is {lowGrade:N2}");
+            Console.WriteLine($"The highest grade is {highGrade:N2}");
+            Console.WriteLine($"The average grade is {result:N2}");
+        }
+
+        //NOTE Field is an Instance field of Book (Cannot use inplicit must be explicit)
+        private List<double> grades;  
        private string name;
     }
 }
